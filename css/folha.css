@@ -1,0 +1,199 @@
+*{
+    margin: 0;  
+    padding: 0;
+}
+
+
+body{
+    font-family: "TimesNewRoman";
+    background:url(../Imagens/favela.jpg) repeat ;
+}
+
+#auxiliar{
+    width: 250px;
+    float:right;
+    padding: 20px;
+    background:url(../Imagens/space.jpg) no-repeat ;
+}
+
+.eixo{
+    width: 1000px;
+    margin: 0 auto;
+    background-color: gray;
+    background-position: center;
+   
+}
+
+#menu{
+    background: url(../Imagens/artemenu.png) no-repeat;
+    height:20px;
+    text-align:  center;
+    padding: 15px;
+    
+    
+}
+
+#menu a:hover{
+    text-decoration: underline;
+    
+}
+
+#menu a{
+    padding: 40px;
+    text-decoration: none;
+    color: black;   
+    font-size: 20px;
+}
+
+#rodape{
+    height: 30px;
+    text-align: center;
+    clear: both;
+    padding-top: 10px;
+    
+}
+
+#conteudo{
+    float:left;
+    width: 638px;
+    height: 680px;
+    padding: 20px; 
+    overflow:scroll;
+    background: #eecd31;
+   
+    
+}
+#conteudo h1,h2,h3,p{
+    margin-bottom: 20px;
+    text-align:  justify;
+}
+
+#conteudo a{
+    text-decoration: none;
+    color: #565656;
+}
+
+#conteudo a:hover{
+    text-decoration: underline;
+    color: black;
+}
+
+#conteudo h1, h2{
+    padding-bottom:10px;
+    border-bottom: 1px solid #cccccc;
+    
+}
+p{
+    font-family: "TimesNewRoman";
+    font-size: 17.4px;
+}
+
+#conteudo p{
+    line-height: 25px;
+    color: #565656;
+    text-align: justify;
+}
+
+#banner{
+    height: 150px;
+    background:url(../Imagens/home.png) ;
+    background-size: auto;
+    cursor: pointer;
+}
+
+#bannerdjonga{
+    height: 150px;
+    background:url(../Imagens/djonga.png);
+    background-size: auto;
+    cursor: pointer;
+}
+
+#auxiliardjonga{
+    width: 290px;
+    float:right;
+    height: 720px;
+    background: url(../Imagens/djongaaux.png) no-repeat;
+}
+    
+
+#bannerbk{
+    height: 150px;
+    background:url(../Imagens/bk.png);
+    background-size: auto;
+    cursor: pointer;
+}
+
+#auxiliarbk{
+    width: 290px;
+    float:right;
+    height: 720px;
+    background: url(../Imagens/beka.png) no-repeat;
+}
+
+#bannerbaco{
+    height: 150px;
+    background:url(../Imagens/baco.png) ;
+    background-size: auto;
+    cursor: pointer;
+}
+
+#auxiliarbaco{
+    width: 290px;
+    float:right;
+    height: 720px;
+    background: url(../Imagens/bacoaux.png) no-repeat;
+}
+
+img{
+    float:right;
+    width: 230px;
+    height: 230px;
+    border:outset;
+    border-color: black;
+    margin-left: 10px;
+    margin-top: 9px;
+}
+
+#bannerfroid{
+    height: 150px;
+    background:url(../Imagens/froid.png) ;
+    background-size: auto;
+    cursor: pointer;
+}
+
+
+
+#auxiliarfroid{
+    width: 290px;
+    float:right;
+    height: 720px;
+    background: url(../Imagens/froidaux.png) no-repeat;
+}
+
+#auxiliarindex{
+    width: 290px;
+    float:right;
+    height: 720px;
+    background: url(../Imagens/pagrap.png) no-repeat;
+}
+
+
+#banner h1{
+   text-align: right;
+    font-style: oblique;
+    padding-top: 70px;
+    padding-right: 100px;
+    color:yellow;
+}
+blockquote{
+    font-size:20px;
+    color:red;
+}
+div{
+    margin:5px;
+    border:outset;
+    border-color: black;
+}
+
+
+
